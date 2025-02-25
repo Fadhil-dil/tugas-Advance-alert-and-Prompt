@@ -30,7 +30,7 @@ function onClick4(){
 
 function tombolPenjumlahan() {
     let angkaYangInginDiTambahkan1 = prompt('masukkan angka ke 1')
-    let angkaYangInginDiTambahkan2 = prompt('masukkan angka ke 1')
+    let angkaYangInginDiTambahkan2 = prompt('masukkan angka ke 2')
 
     let hasil = Number(angkaYangInginDiTambahkan1) + Number(angkaYangInginDiTambahkan2)
 
